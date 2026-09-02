@@ -3,10 +3,10 @@ package javanproject;
 public class MyProject {
 
 	public static void main(String[] args) {
-		System.out.format("%30s","Here is my favorite saying:\n");
-		System.out.print("\n");
+		System.out.format("%30s","Here is my favorite saying:");
+		System.out.println("\n");
 		System.out.println("\tBut He was pierced through for our transgressions,");
-		System.out.println("\tHe was crushed for our iniquities;/n");
+		System.out.println("\tHe was crushed for our iniquities;");
 		System.out.println("\tThe chastening for our well-being fell upon Him,");
 		System.out.println("\tAnd by His scourging we are healed.\n");
 		
