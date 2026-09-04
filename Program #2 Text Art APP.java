@@ -1,3 +1,6 @@
+//Programmer: Javan Graber
+//Date: 9/2/26
+
 package javanproject;
 
 public class MyProject {
